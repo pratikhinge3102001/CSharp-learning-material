@@ -1,4 +1,4 @@
-# c-learning-material
+# c#-learning-material
 
 <p align="center">
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp">
