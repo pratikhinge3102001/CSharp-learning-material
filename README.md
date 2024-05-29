@@ -17,7 +17,7 @@ A curated list of awesome [C#](https://github.com/dotnet/csharplang) tutorials, 
 
 > C# (pronounced "See Sharp") is a modern, object-oriented, and type-safe programming language.
 
-Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-fsharp](https://github.com/fsprojects/awesome-fsharp) and [awesome](https://github.com/sindresorhus/awesome).
+
 </div>
 
 ## Contents
